@@ -19,7 +19,7 @@ The automation performs the following steps:
 - JSON data processing
 
 ## 📷 Workflow Screenshot
-![Workflow](screenshots/workflow.png)
+![Workflow](screenshots/workflow.png.PNG)
 
 ## 🎯 What I Learned
 - Designing automation pipelines  
@@ -36,3 +36,4 @@ This project is for educational and portfolio purposes only and is designed to w
 - Add scheduling  
 - Store data in a database  
 - Build a small dashboard  
+
